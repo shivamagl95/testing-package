@@ -1,0 +1,14 @@
+{
+  "name": "testing-package",
+  "version": "1.0.0",
+  "description": "To test the conventional commits deloyment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Shivam Agrawal",
+  "license": "MIT"
+}
