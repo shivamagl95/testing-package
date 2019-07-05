@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/shivamagl95/testing-package/compare/v1.1.0...v1.1.1) (2019-07-05)
+
+
+### Bug Fixes
+
+* done some fixes ([c20b386](https://github.com/shivamagl95/testing-package/commit/c20b386))
+
+
+
 ## [1.1.0](https://github.com/shivamagl95/testing-package/compare/v1.0.1...v1.1.0) (2019-07-03)
 
 
