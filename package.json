@@ -1,11 +1,10 @@
 {
   "name": "testing-package",
-  "version": "1.1.4-beta.15",
+  "version": "1.1.4-beta.16",
   "description": "To test the conventional commits deloyment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postcommit": "/bin/bash ./postcommit.sh",
     "release": "standard-version"
   },
   "keywords": [
