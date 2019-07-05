@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4-beta.18](https://github.com/shivamagl95/testing-package/compare/v1.1.4-beta.17...v1.1.4-beta.18) (2019-07-05)
+
+
+### Bug Fixes
+
+* change script ([407f69a](https://github.com/shivamagl95/testing-package/commit/407f69a))
+
+
+
 ### [1.1.4-beta.17](https://github.com/shivamagl95/testing-package/compare/v1.1.4-beta.0...v1.1.4-beta.17) (2019-07-05)
 
 
