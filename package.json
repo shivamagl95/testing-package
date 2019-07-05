@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
-    "postcommit": "/bin/bash ./postcommit-script.sh && exit 0"
+    "postcommit": "/bin/bash ./postcommit-script.sh"
   },
   "keywords": [
     "Test"
