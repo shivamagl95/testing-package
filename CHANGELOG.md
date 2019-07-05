@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.7-beta.49](https://github.com/shivamagl95/testing-package/compare/v1.1.7-beta.1...v1.1.7-beta.49) (2019-07-05)
+
+
+
 ### [1.1.7-beta.48](https://github.com/shivamagl95/testing-package/compare/v1.1.7-beta.1...v1.1.7-beta.48) (2019-07-05)
 
 
