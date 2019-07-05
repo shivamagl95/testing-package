@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4-beta.17](https://github.com/shivamagl95/testing-package/compare/v1.1.4-beta.0...v1.1.4-beta.17) (2019-07-05)
+
+
+### Bug Fixes
+
+* change package.json ([a4eadad](https://github.com/shivamagl95/testing-package/commit/a4eadad))
+
+
+
 ### [1.1.4-beta.15](https://github.com/shivamagl95/testing-package/compare/v1.1.4-beta.0...v1.1.4-beta.15) (2019-07-05)
 
 
