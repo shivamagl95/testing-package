@@ -4,11 +4,11 @@ echo ${branch}
 if [[ "${branch}" == "master" ]]
 then
 npm run release 
-git push --follow-tags origin ${branch}
+#git push --follow-tags origin ${branch}
 fi
 
 if [[ "${branch}" == "develop" ]] 
 then
 npm run release -- --prerelease beta
-git push --follow-tags origin ${branch}
+#git push --follow-tags origin ${branch}
 fi
