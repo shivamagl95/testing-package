@@ -10,5 +10,6 @@ fi
 if [[ "${branch}" == "develop" ]] 
 then
 npm run release -- --prerelease beta
+exit 0;
 #git push --follow-tags origin ${branch}
 fi

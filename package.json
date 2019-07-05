@@ -1,6 +1,6 @@
 {
   "name": "testing-package",
-  "version": "1.1.7-beta.31",
+  "version": "1.1.7-beta.32",
   "description": "To test the conventional commits deloyment",
   "main": "index.js",
   "scripts": {
