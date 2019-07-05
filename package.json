@@ -8,9 +8,6 @@
     "release": "standard-version",
     "postcommit": "/bin/bash ./postcommit-script.sh && exit 0"
   },
-  "post-commit": [
-    "postcommit"
-  ],
   "keywords": [
     "Test"
   ],
