@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 * done fixes more in develop ([549c0f9](https://github.com/shivamagl95/testing-package/commit/549c0f9))
+* done fixes more in qa ([fc7e95a](https://github.com/shivamagl95/testing-package/commit/fc7e95a))
 
 
 
