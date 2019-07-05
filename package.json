@@ -8,6 +8,9 @@
     "deploy": "./postcommit.sh",
     "release": "standard-version"
   },
+  "post-commit": [
+    "deploy"
+  ],
   "keywords": [
     "Test"
   ],
