@@ -5,12 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version"
-  },
-  "standard-version": {
-    "scripts": {
-      "postcommit": "./postcommit.sh"
-    }
+    "release": "standard-version",
+    "deploy": "./postcommit.sh"
   },
   "keywords": [
     "Test"
